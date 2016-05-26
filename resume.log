@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.28)  5 MAY 2016 14:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.28)  26 MAY 2016 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -678,7 +678,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Overfull \hbox (2.31345pt too wide) in paragraph at lines 147--149
+Overfull \hbox (2.31345pt too wide) in paragraph at lines 150--152
 \EU1/Lato(0)/bx/n/10 Senior Project Manager/Manager, Data Warehouse/Business In
 telligence \EU1/Lato(0)/m/it/10 Santander Consumer USA\EU1/Lato(0)/m/n/10 , Dal
 las, TX (2007–
@@ -687,15 +687,15 @@ las, TX (2007–
 [2
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
  [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 244.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
  ) 
 Here is how much of TeX's memory you used:
  20735 strings out of 493638
